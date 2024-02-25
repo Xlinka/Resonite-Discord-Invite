@@ -3,6 +3,8 @@
 ## Overview
 The Discord Invite Mod is a plugin for [Resonite], a virtual reality social platform, that enhances the user experience by integrating Discord rich presence for session invites. 
 
+![image](https://github.com/Xlinka/Resonite-Discord-Invite/assets/22996716/44d733dd-c33d-4c84-af9f-3581a0fc0d39)
+
 ## Features
 - Allows other Discord users to join the Resonite session through a Discord invite.
 
